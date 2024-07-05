@@ -39,6 +39,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 * **Segurança em Nuvem:** Práticas de segurança especificas para ambientes de computação em nuvem.
   * Modelos de responsabilidade compartilhada;
+  * Gerenciamento de identidade e acesso (iam);
 
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 

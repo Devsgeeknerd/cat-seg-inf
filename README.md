@@ -10,6 +10,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Fundamentos da Segurança da Informação:** Conceitos básicos e princípios fundamentais da segurança da informação.
   * Definições e terminologia;
   * Princípios de confidencialidade, integridade e disponibilidade;
+  * Ameaças e vulnerabilidades;
 
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 

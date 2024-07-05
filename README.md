@@ -15,6 +15,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 * **Gestão de Riscos de Segurança:** Processos e metodologias para identificar, avaliar e mitigar riscos de segurança.
   * Avaliação de riscos;
+  * Metodologias de gestão de riscos;
 
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 

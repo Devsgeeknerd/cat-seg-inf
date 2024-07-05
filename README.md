@@ -22,6 +22,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Segurança de Redes:** Técnicas e práticas para proteger redes de  computadores contra ameaças e ataques.
   * Arquitetura de redes e segurança;
   * Firewalls e sistemas de prevenção/detecção de intrusões;
+  * VPNs e criptografia rede;
 
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 

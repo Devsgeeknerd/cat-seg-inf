@@ -35,6 +35,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Ciclo de vida de desenvolvimento seguro (sdlc);
   * Testes de segurança em aplicações;
   * OWASP Top 10 vulnerabilidades;
+  * Segurança em APIs e microsserviços.
 
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 

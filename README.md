@@ -44,6 +44,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Conformidade e regulamentações em nuvem.
 
 * **Resposta a Incidentes e Forense Digital:** Processos para responder a incidentes de segurança e realizar análises forenses.
+  * Plano de resposta a iniciantes;
 
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 

@@ -19,6 +19,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Mitigação e tratamento de riscos;
   * Planos de continuidade de negócios e recuperação de desastres.
 
+* **Segurança de Redes:** Técnicas e práticas para proteger redes de  computadores contra ameaças e ataques.
+
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 
 <!-- Informações -->

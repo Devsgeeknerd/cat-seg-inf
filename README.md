@@ -20,7 +20,7 @@ Essas competências são fundamentais para garantir a integridade, confidenciali
 &nbsp;
 ![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cat-seg-inf?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![Forks](https://img.shields.io/github/forks/Devsgeeknerd/?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cat-seg-inf?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
 ![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;

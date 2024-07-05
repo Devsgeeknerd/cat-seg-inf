@@ -53,6 +53,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Frameworks de governança;
   * Conformidade regulatória;
   * Auditorias de segurança;
+  * Programas de conscientização em segurança.
 
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 

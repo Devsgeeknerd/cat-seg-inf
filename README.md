@@ -31,6 +31,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Certificados digitais e infraestrutura de chave pública (pki).
   * Protocolos criptográficos (ssl/tls).
 
+* **Segurança em Aplicações:** Práticas e técnicas para garantir a segurança no desenvolvimento e execução de aplicações.
+
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 
 <!-- Informações -->

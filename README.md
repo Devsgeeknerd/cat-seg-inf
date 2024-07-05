@@ -22,6 +22,6 @@ Essas competências são fundamentais para garantir a integridade, confidenciali
 &nbsp;
 ![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cat-seg-inf?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cat-seg-inf?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
 ![License](https://img.shields.io/github/license/Devsgeeknerd/?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")

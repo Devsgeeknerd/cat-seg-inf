@@ -25,6 +25,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * VPNs e criptografia rede;
   * Segurança em redes sem fio.
 
+* **Criptografia:** Técnicas para proteger informações através da codificação.
+
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 
 <!-- Informações -->

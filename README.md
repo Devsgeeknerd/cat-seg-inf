@@ -11,6 +11,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Definições e terminologia;
   * Princípios de confidencialidade, integridade e disponibilidade;
   * Ameaças e vulnerabilidades;
+  * Políticas e procedimentos de segurança.
 
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 

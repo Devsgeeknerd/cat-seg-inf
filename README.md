@@ -34,6 +34,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Segurança em Aplicações:** Práticas e técnicas para garantir a segurança no desenvolvimento e execução de aplicações.
   * Ciclo de vida de desenvolvimento seguro (sdlc);
   * Testes de segurança em aplicações;
+  * OWASP Top 10 vulnerabilidades;
 
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 

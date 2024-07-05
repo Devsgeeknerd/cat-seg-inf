@@ -68,6 +68,9 @@ Essas competências são fundamentais para garantir a integridade, confidenciali
 >
 > * Participação em comunidades:
 >   * Envolva-se em fóruns e grupos online para trocar experiências e resolver dúvidas.
+>
+> * Atualização Constante:
+>   * Mantenha-se atualizado com as últimas tendências e ameaças em segurança da informação.
 
 <!-- Informações -->
 ## &#8505; Informações

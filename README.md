@@ -27,6 +27,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 * **Criptografia:** Técnicas para proteger informações através da codificação.
   * Conceitos básicos de criptografia;
+  * Criptografia simétrica e assimétrica;
 
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 

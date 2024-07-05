@@ -32,6 +32,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Protocolos criptográficos (ssl/tls).
 
 * **Segurança em Aplicações:** Práticas e técnicas para garantir a segurança no desenvolvimento e execução de aplicações.
+  * Ciclo de vida de desenvolvimento seguro (sdlc);
 
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 

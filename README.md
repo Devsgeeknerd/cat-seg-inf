@@ -58,6 +58,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 
 > [!IMPORTANT]\
+> **Dicas de Estudo:**
 
 <!-- Informações -->
 ## &#8505; Informações

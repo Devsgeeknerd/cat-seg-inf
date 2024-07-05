@@ -16,7 +16,7 @@ Essas competências são fundamentais para garantir a integridade, confidenciali
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/act-seg-inf?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
 ![Stars](https://img.shields.io/github/stars/Devsgeeknerd/?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;

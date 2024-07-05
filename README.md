@@ -46,6 +46,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Resposta a Incidentes e Forense Digital:** Processos para responder a incidentes de segurança e realizar análises forenses.
   * Plano de resposta a iniciantes;
   * Técnicas de investigação forense digital;
+  * Coleta e prevenção de evidências;
 
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 

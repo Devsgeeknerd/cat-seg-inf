@@ -24,4 +24,4 @@ Essas competências são fundamentais para garantir a integridade, confidenciali
 &nbsp;
 ![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cat-seg-inf?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![License](https://img.shields.io/github/license/Devsgeeknerd/?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cat-seg-inf?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")

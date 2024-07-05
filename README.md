@@ -61,6 +61,7 @@ Essas competências são fundamentais para garantir a integridade, confidenciali
 > **Dicas de Estudo:**
 >
 > * Prática Contínua:
+>   * Participe de CTFs (Capture The Flag) e simulações de ataques para praticar suas habilidades.
 
 <!-- Informações -->
 ## &#8505; Informações

@@ -3,6 +3,12 @@
 
 ***Conteúdo da Categoria:***
 
+A categoria Segurança da Informação é essencial para proteger dados e sistemas contra ameaças cibernéticas.
+
+Ao completar esta categoria, terá habilidades robustas em:
+
+Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
+
 <!-- Informações -->
 ## &#8505; Informações
 

@@ -59,6 +59,8 @@ Essas competências são fundamentais para garantir a integridade, confidenciali
 
 > [!IMPORTANT]\
 > **Dicas de Estudo:**
+>
+> * Prática Contínua:
 
 <!-- Informações -->
 ## &#8505; Informações

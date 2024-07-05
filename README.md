@@ -17,6 +17,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Avaliação de riscos;
   * Metodologias de gestão de riscos;
   * Mitigação e tratamento de riscos;
+  * Planos de continuidade de negócios e recuperação de desastres.
 
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 

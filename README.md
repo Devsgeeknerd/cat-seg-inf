@@ -67,6 +67,7 @@ Essas competências são fundamentais para garantir a integridade, confidenciali
 >   * Obtenha certificações reconhecidas no setor;
 >
 > * Participação em comunidades:
+>   * Envolva-se em fóruns e grupos online para trocar experiências e resolver dúvidas.
 
 <!-- Informações -->
 ## &#8505; Informações

@@ -64,6 +64,7 @@ Essas competências são fundamentais para garantir a integridade, confidenciali
 >   * Participe de CTFs (Capture The Flag) e simulações de ataques para praticar suas habilidades.
 >
 > * Certificações:
+>   * Obtenha certificações reconhecidas no setor;
 
 <!-- Informações -->
 ## &#8505; Informações

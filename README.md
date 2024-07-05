@@ -47,6 +47,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Plano de resposta a iniciantes;
   * Técnicas de investigação forense digital;
   * Coleta e prevenção de evidências;
+  * Análises de malware e ataques cibernéticos.
 
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 

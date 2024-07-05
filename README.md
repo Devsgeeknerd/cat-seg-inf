@@ -37,6 +37,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * OWASP Top 10 vulnerabilidades;
   * Segurança em APIs e microsserviços.
 
+* **Segurança em Nuvem:** Práticas de segurança especificas para ambientes de computação em nuvem.
+
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 
 <!-- Informações -->

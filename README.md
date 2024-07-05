@@ -52,6 +52,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Governança, Risco e Conformidade (GRC):** Estruturas e práticas para garantir que as atividades de TI estejam em conformidade com as leis e regulamentos.
   * Frameworks de governança;
   * Conformidade regulatória;
+  * Auditorias de segurança;
 
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 

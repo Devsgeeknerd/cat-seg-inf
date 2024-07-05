@@ -41,6 +41,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Modelos de responsabilidade compartilhada;
   * Gerenciamento de identidade e acesso (iam);
   * Segurança de dados em repouso e em trânsito;
+  * Conformidade e regulamentações em nuvem.
 
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 

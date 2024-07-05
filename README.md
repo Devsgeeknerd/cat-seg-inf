@@ -49,6 +49,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Coleta e prevenção de evidências;
   * Análises de malware e ataques cibernéticos.
 
+* **Governança, Risco e Conformidade (GRC):** Estruturas e práticas para garantir que as atividades de TI estejam em conformidade com as leis e regulamentos.
+
 Essas competências são fundamentais para garantir a integridade, confidencialidade e disponibilidade das informações em qualquer organização.
 
 <!-- Informações -->
